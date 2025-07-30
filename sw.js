@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pwa-cache-v1';
+const CACHE_NAME = 'pwa-cache-v12';
 const DYNAMIC_CACHE = 'pwa-dynamic-v1';
 
 
